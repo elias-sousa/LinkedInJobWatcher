@@ -1,0 +1,22 @@
+# Build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Rider/VS
+.vs/
+.idea/
+
+# Application data (never commit your session, database or logs)
+browser-profile/
+data/
+logs/
+*.db
+*.db-shm
+*.db-wal
+
+# Secrets
+appsettings.*.local.json

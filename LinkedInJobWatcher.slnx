@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/LinkedInJobWatcher.Core/LinkedInJobWatcher.Core.csproj" />
+    <Project Path="src/LinkedInJobWatcher.Infrastructure/LinkedInJobWatcher.Infrastructure.csproj" />
+    <Project Path="src/LinkedInJobWatcher.Worker/LinkedInJobWatcher.Worker.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/LinkedInJobWatcher.Tests/LinkedInJobWatcher.Tests.csproj" />
+  </Folder>
+</Solution>
